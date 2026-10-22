@@ -11,3 +11,6 @@
 /DEseq/old/
 DEseq/Annotation/blast_search/A_americanus_trinity.okay.mrna
 *.txt
+*.fasta.gz
+*.log
+*.svg
