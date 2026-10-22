@@ -1,0 +1,13 @@
+# ignore .tar.gz files 
+*.tar.gz
+*.csv
+*.Rhistory
+*.pdf
+*.png
+*.rds
+*.tsv
+*.fasta
+*.jpeg
+/DEseq/old/
+DEseq/Annotation/blast_search/A_americanus_trinity.okay.mrna
+*.txt
